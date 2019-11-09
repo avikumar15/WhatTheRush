@@ -20,7 +20,7 @@ In addition to all the coding part for above features, I had to set up the terra
 
 ## 
 
-The actual build file that is the game is available under Game/ directory.
+The actual build file (playable) that is the game is available under Game/ directory.
 
 ## Future plans -
 - To have a day and night track separately.
@@ -36,4 +36,3 @@ The actual build file that is the game is available under Game/ directory.
 - Set up a leaderboard for people playing across the world.
 
 - And anything else that seems feasible.
-
